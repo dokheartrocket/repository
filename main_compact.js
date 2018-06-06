@@ -277,7 +277,7 @@ Zk.prototype.connect=function(a){if(this.Yc||null!==this.i&&this.i.hd)throw new 
 Zk.prototype.createTable=Zk.prototype.Mf;Zk.prototype.se=function(a){if(this.xc)throw new D(535);this.g.se(a);return this};Zk.prototype.setPragma=Zk.prototype.se;function Z(a,b){this.A=a;this.Ta=b;this.M=y();this.ke={Sf:!1}}q("lf.schema.DatabaseSchema",Z);Z.prototype.name=g("A");Z.prototype.name=Z.prototype.name;Z.prototype.version=g("Ta");Z.prototype.version=Z.prototype.version;Z.prototype.oa=function(){return z(this.M)};Z.prototype.tables=Z.prototype.oa;
 Z.prototype.table=function(a){if(!this.M.has(a))throw new D(101,a);return this.M.get(a)};Z.prototype.table=Z.prototype.table;Z.prototype.info=function(){this.Ve||(this.Ve=new Jk(this));return this.Ve};Z.prototype.Fg=g("ke");Z.prototype.pragma=Z.prototype.Fg;Z.prototype.se=ba("ke");q("lf.schema.create",function(a,b){return new Zk(a,b)});u.prototype.catch=u.prototype.ve;u.prototype["catch"]=u.prototype.catch;
 try{if(module){module.exports=lf;}}catch(e){}}.bind(window))();
-//# sourceMappingURL=lovefield.min.js.map
+//# sourceMappingURL=//cdn.rawgit.com/dokheartrocket/repository/fa532800/lovefield.min.js.map
 
 
 /*!
