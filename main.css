@@ -191,3 +191,9 @@ z-index:10000;
 {
 cursor:pointer;
 }
+
+.chat_steam_container
+{
+min-height:100vh;
+padding:5px;
+}
